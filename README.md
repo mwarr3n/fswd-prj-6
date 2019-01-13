@@ -188,7 +188,7 @@ sudo apt-get install postgresql
 ```
 The installation created a user called `postgres`. Switch to this user
 ```
-sudo su - postgres
+sudo su postgres
 ```
 Open psql, create the catalog database, user, role and grant privileges
 ```
